@@ -1,0 +1,57 @@
+.adduser{
+
+    margin-top: 100px;
+    margin-left: 30%;
+    justify-content: center;
+    height: 400px;
+    width: 700px;
+    background-color: rgb(231, 239, 246);
+    border: 5px solid rgb(217, 47, 47);
+    box-shadow: 1px 2px 5px red;
+}
+.adduser h1{
+text-decoration: underline;
+}
+.r1{
+    /* background-color: rgb(103, 80, 80); */
+    margin-left: 30px;
+    margin: 20px;
+    margin-top: 20px;
+    /* text-align: left; */
+}
+.r2 input{
+    border: 3px solid black;
+    height: 20px;
+    width: 200px;
+    /* margin-top: 20px; */
+}
+.r3 input{
+    border: 3px solid black;
+    height: 20px;
+    width: 200px;
+    /* margin-top: 20px; */
+}
+.r4 input{
+    border: 3px solid black;
+    height: 20px;
+    width: 200px;
+    /* margin-top: 20px; */
+}
+
+.r5 input{
+    border: 3px solid black;
+    height: 20px;
+    width: 200px;
+    /* margin-top: 20px; */
+}
+.r1 label{
+    font-weight: bold;
+}
+#btn123{
+    background-color: rgb(4, 141, 141);
+    color: rgb(2, 9, 15);
+    font-weight: bold;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+}

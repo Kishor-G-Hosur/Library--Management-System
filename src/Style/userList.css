@@ -1,0 +1,11 @@
+.userlist1{
+    background-color: beige;
+}
+.user1{
+    display: inline-block;
+    background-color: aquamarine;
+    height: 200px;
+    width: 300px;
+    margin-left: 10px;
+    border: 3px solid black;
+}
