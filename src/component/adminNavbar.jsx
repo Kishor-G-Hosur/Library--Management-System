@@ -17,7 +17,7 @@ const AdminNavbar = () => {
                 <li id="n22"><Link to="/">LOGOUT</Link></li>
             </ul>
             
-           
+           .
             
             
             

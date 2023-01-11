@@ -1,11 +1,22 @@
 .userlist1{
     background-color: beige;
+    margin-top: -30px;
+    
 }
 .user1{
+    margin-top: 30px;
     display: inline-block;
     background-color: aquamarine;
-    height: 200px;
+    height: 250px;
     width: 300px;
     margin-left: 10px;
     border: 3px solid black;
+}
+#btn99{
+    background-color: rgb(4, 141, 141);
+    color: rgb(2, 9, 15);
+    font-weight: bold;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
 }
