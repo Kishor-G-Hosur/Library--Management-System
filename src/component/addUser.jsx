@@ -30,7 +30,7 @@ let handleSubmit=(e)=>
             <form action="" onSubmit={handleSubmit}>
                 <div className="r1">
                     <div className="r2">
-                    <label htmlFor="">name</label>
+                    <label id="l1" htmlFor="">name</label>
                     <br />
                     <input type="text" required placeholder="enter name" value={name} onChange={(e)=>setName(e.target.value)}/>
                     </div>

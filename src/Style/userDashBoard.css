@@ -1,0 +1,56 @@
+.userDashBoard{
+   
+    text-align: left;
+    margin: 60px 90px;
+}
+.user122{
+    margin-top: 30px;
+    background-image: url("C:\Users\Lenono-PC\Desktop\React\Library\public\images\11img.jpg");
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    
+}
+.user111{
+    
+    background-color: aliceblue;
+    border: 3px solid aliceblue;
+}
+#a123{
+    font-size: 60px;
+    font-weight:lighter;
+    text-decoration: underline rgb(4, 116, 161);
+    font-family: sans-serif;
+
+}
+#id321{
+    font-size: 60px;
+    font-weight:lighter;
+    text-decoration: underline rgb(4, 116, 161);
+    font-family: sans-serif;
+}
+#b123{
+
+    margin-top: 0px;
+    font-size: 20px;
+}
+.user321{
+    background-color: aliceblue;
+    width: 1000px;
+    position: absolute;
+    bottom: -280px;
+    left: 250px;
+    height: 300px;
+    
+  padding: 30px;
+}
+#id123{
+    font-size:20px;
+}
+#id234{
+position: absolute;
+right: 20px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgb(4, 144, 200);
+}

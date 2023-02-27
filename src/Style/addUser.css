@@ -10,7 +10,10 @@
     box-shadow: 1px 2px 5px red;
 }
 .adduser h1{
+    margin-top: 0px;
 text-decoration: underline;
+background-color: rgb(8, 2, 2);
+color: aliceblue;
 }
 .r1{
     /* background-color: rgb(103, 80, 80); */
@@ -22,26 +25,26 @@ text-decoration: underline;
 .r2 input{
     border: 3px solid black;
     height: 20px;
-    width: 200px;
+    width: 300px;
     /* margin-top: 20px; */
 }
 .r3 input{
     border: 3px solid black;
     height: 20px;
-    width: 200px;
+    width: 300px;
     /* margin-top: 20px; */
 }
 .r4 input{
     border: 3px solid black;
     height: 20px;
-    width: 200px;
+    width: 300px;
     /* margin-top: 20px; */
 }
 
 .r5 input{
     border: 3px solid black;
     height: 20px;
-    width: 200px;
+    width: 300px;
     /* margin-top: 20px; */
 }
 .r1 label{
@@ -54,4 +57,9 @@ text-decoration: underline;
     height: 30px;
     width: 200px;
     border-radius: 10px;
+}
+#l1{
+    color: rgb(1, 11, 1);
+    font-size: 20px;
+    font-weight: bolder;
 }
