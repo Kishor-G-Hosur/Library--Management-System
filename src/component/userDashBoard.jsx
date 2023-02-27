@@ -17,6 +17,18 @@ const UserDashBoard = () => {
           <button id='id234'>Get Started -</button>
           </div>
         </div>
+        <div className="z">
+            <div className="z1">
+                <h1 id='zx1'>Learn Something New or Get Tech Help</h1>
+                
+            </div>
+            <div className="z2">
+                <h3 id='zx12'>Register on the online calendar. For more information call (203) 622-7920.</h3>
+            </div>
+            <div className="z3">
+                <button id='zx13'> view calendar-</button>
+            </div>
+        </div>
         </div>
     );
 }

@@ -26,7 +26,7 @@ const UserList = () => {
     }
 
     return (  
-        <div className="userlist1">
+        <div className="userlist1"> 
             <h1>user list</h1>
             {
                 oldUsers.map((data)=>

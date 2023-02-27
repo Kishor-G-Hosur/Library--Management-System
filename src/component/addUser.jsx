@@ -25,8 +25,11 @@ let handleSubmit=(e)=>
 }
 
     return ( 
-        <div className="adduser">
+        <div className="pag">
             <h1>Add to user</h1>
+       
+        <div className="adduser">
+            
             <form action="" onSubmit={handleSubmit}>
                 <div className="r1">
                     <div className="r2">
@@ -55,7 +58,9 @@ let handleSubmit=(e)=>
                     <br />
                     <button id="btn123">Submit</button>
                 </div>
+            
             </form>
+        </div>
         </div>
      );
 }
